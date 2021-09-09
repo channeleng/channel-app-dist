@@ -7384,8 +7384,8 @@ Object.defineProperty(Duplex.prototype, 'destroyed', {
 });
 
 },{"process":"6Upk8","./_stream_readable":"lODt8","./_stream_writable":"eBTQm","inherits":"bYMAq"}],"eBTQm":[function(require,module,exports) {
-var global = arguments[3];
 var process = require("process");
+var global = arguments[3];
 // Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
@@ -29117,8 +29117,8 @@ class Session {
 exports.Session = Session;
 
 },{"rxjs":"679Kz","rxjs/operators":"1nEKB","../util":"9YjZb","js-sha256":"6epX0"}],"6epX0":[function(require,module,exports) {
-var global = arguments[3];
 var process = require("process");
+var global = arguments[3];
 /**
  * [js-sha256]{@link https://github.com/emn178/js-sha256}
  *

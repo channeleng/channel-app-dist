@@ -7114,8 +7114,8 @@ function parseTransactionData(txData) {
 }
 
 },{"js-sha3":"bAtWW","@walletconnect/encoding":"96IMy","./encoding":"25kmb","./misc":"3eK8J","./validators":"aVhlw","@parcel/transformer-js/src/esmodule-helpers.js":"JacNc"}],"bAtWW":[function(require,module,exports) {
-var global = arguments[3];
 var process = require("process");
+var global = arguments[3];
 /**
  * [js-sha3]{@link https://github.com/emn178/js-sha3}
  *
@@ -14570,8 +14570,8 @@ var xml_http_request_event_target_1 = require("./xml-http-request-event-target")
 exports.XMLHttpRequestEventTarget = xml_http_request_event_target_1.XMLHttpRequestEventTarget;
 
 },{"./xml-http-request":"lpSrO","./xml-http-request-event-target":"kXqnU"}],"lpSrO":[function(require,module,exports) {
-var Buffer = require("buffer").Buffer;
 var process = require("process");
+var Buffer = require("buffer").Buffer;
 "use strict";
 var __extends = this && this.__extends || function() {
     var extendStatics = Object.setPrototypeOf || ({
@@ -15010,7 +15010,7 @@ XMLHttpRequest1.prototype.nodejsHttpAgent = http.globalAgent;
 XMLHttpRequest1.prototype.nodejsHttpsAgent = https.globalAgent;
 XMLHttpRequest1.prototype.nodejsBaseUrl = null;
 
-},{"buffer":"bpNHw","process":"6Upk8","http":"dRxnr","https":"WlI2d","os":"dJU7c","url":"8glPb","./progress-event":"fHPZ1","./errors":"cZzN9","./xml-http-request-event-target":"kXqnU","./xml-http-request-upload":"cAo9r","cookiejar":"66lUq"}],"dRxnr":[function(require,module,exports) {
+},{"process":"6Upk8","buffer":"bpNHw","http":"dRxnr","https":"WlI2d","os":"dJU7c","url":"8glPb","./progress-event":"fHPZ1","./errors":"cZzN9","./xml-http-request-event-target":"kXqnU","./xml-http-request-upload":"cAo9r","cookiejar":"66lUq"}],"dRxnr":[function(require,module,exports) {
 var global = arguments[3];
 var ClientRequest = require('./lib/request');
 var response = require('./lib/response');
@@ -15083,9 +15083,9 @@ http.METHODS = [
 ];
 
 },{"./lib/request":"3C442","./lib/response":"hE1hx","xtend":"6h06z","builtin-status-codes":"avvrf","url":"8glPb"}],"3C442":[function(require,module,exports) {
-var global = arguments[3];
 var process = require("process");
 var Buffer = require("buffer").Buffer;
+var global = arguments[3];
 var capability = require('./capability');
 var inherits = require('inherits');
 var response = require('./response');
@@ -15613,7 +15613,7 @@ IncomingMessage.prototype._onXHRProgress = function(resetTimers) {
     }
 };
 
-},{"buffer":"bpNHw","process":"6Upk8","./capability":"e4ZHB","inherits":"bYMAq","readable-stream":"8y686"}],"8y686":[function(require,module,exports) {
+},{"process":"6Upk8","buffer":"bpNHw","./capability":"e4ZHB","inherits":"bYMAq","readable-stream":"8y686"}],"8y686":[function(require,module,exports) {
 exports = module.exports = require('./lib/_stream_readable.js');
 exports.Stream = exports;
 exports.Readable = exports;
@@ -15625,8 +15625,8 @@ exports.finished = require('./lib/internal/streams/end-of-stream.js');
 exports.pipeline = require('./lib/internal/streams/pipeline.js');
 
 },{"./lib/_stream_readable.js":"af94d","./lib/_stream_writable.js":"1xHDW","./lib/_stream_duplex.js":"WpAN3","./lib/_stream_transform.js":"ijkDa","./lib/_stream_passthrough.js":"ely67","./lib/internal/streams/end-of-stream.js":"iJQ7c","./lib/internal/streams/pipeline.js":"7V4JC"}],"af94d":[function(require,module,exports) {
-var global = arguments[3];
 var process = require("process");
+var global = arguments[3];
 // Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
@@ -23914,8 +23914,8 @@ Object.defineProperty(Duplex.prototype, 'destroyed', {
 });
 
 },{"process":"6Upk8","./_stream_readable":"lODt8","./_stream_writable":"eBTQm","inherits":"bYMAq"}],"eBTQm":[function(require,module,exports) {
-var global = arguments[3];
 var process = require("process");
+var global = arguments[3];
 // Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
@@ -37331,8 +37331,8 @@ exports.finished = require('./lib/internal/streams/end-of-stream.js');
 exports.pipeline = require('./lib/internal/streams/pipeline.js');
 
 },{"./lib/_stream_readable.js":"8jOvE","./lib/_stream_writable.js":"6xQ2w","./lib/_stream_duplex.js":"2tNsP","./lib/_stream_transform.js":"jyyo2","./lib/_stream_passthrough.js":"kj2t2","./lib/internal/streams/end-of-stream.js":"lHITK","./lib/internal/streams/pipeline.js":"8lMEP"}],"8jOvE":[function(require,module,exports) {
-var global = arguments[3];
 var process = require("process");
+var global = arguments[3];
 // Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
