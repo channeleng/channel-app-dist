@@ -1,0 +1,28 @@
+{
+  "description": "3words Metadata Standard v0",
+  "external_url": "https://3wordsproject.com",
+  "image": "https://3wordsproject.com/image/303.png",
+  "name": "faith in chaos",
+  "attributes": [
+    {
+      "trait_type": "perplexity",
+      "value": 1276.0061
+    },
+    {
+      "trait_type": "phraseId",
+      "value": "0x5e3aa5d36fb4d624a93857ce85aa0f69f2ed55f5d616b90df677c095c5496a7d"
+    },
+    {
+      "trait_type": "word1",
+      "value": "faith"
+    },
+    {
+      "trait_type": "word2",
+      "value": "in"
+    },
+    {
+      "trait_type": "word3",
+      "value": "chaos"
+    }
+  ]
+}

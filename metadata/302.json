@@ -1,0 +1,28 @@
+{
+  "description": "3words Metadata Standard v0",
+  "external_url": "https://3wordsproject.com",
+  "image": "https://3wordsproject.com/image/302.png",
+  "name": "worlds on fire",
+  "attributes": [
+    {
+      "trait_type": "perplexity",
+      "value": 262.8369
+    },
+    {
+      "trait_type": "phraseId",
+      "value": "0x3aeb0d84bd24b2c75501c79e06fe8500e113c4c01927fb2ae7c32588664e232d"
+    },
+    {
+      "trait_type": "word1",
+      "value": "worlds"
+    },
+    {
+      "trait_type": "word2",
+      "value": "on"
+    },
+    {
+      "trait_type": "word3",
+      "value": "fire"
+    }
+  ]
+}
